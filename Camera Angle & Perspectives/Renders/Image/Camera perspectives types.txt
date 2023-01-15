@@ -1,0 +1,4 @@
+T - Top down view
+S - Side
+F - Front
+I - Isometric
